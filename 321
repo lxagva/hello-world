@@ -1,16 +1,16 @@
-body {
-background: rgb(215, 250, 220);
- font-family: sans-serif;
+ body {
+ background: rgb(215, 250, 220);
+  font-family: sans-serif;
 }
  
-.header {
-background-color: rgb(23, 66, 23);
-color: white;
-padding: 5px 10px;
+ .header {
+ background-color: rgb(23, 66, 23);
+ color: white;
+ padding: 5px 10px;
 }
 
-.footer {
-background-color: rgb(186, 222, 187);
-padding: 6px;
- clear: both;
+ .footer {
+ background-color: rgb(186, 222, 187);
+ padding: 6px;
+  clear: both;
 }
